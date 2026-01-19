@@ -1,17 +1,12 @@
-# Slow System Performance Issue
+# IT Helpdesk Workflow Simulation
 
-## Issue
-User system responding slowly.
+This repository demonstrates real-world IT helpdesk ticket handling scenarios.
 
-## Priority
-High
+## Covered Areas
+- Ticket prioritization
+- Issue diagnosis
+- Resolution workflow
+- Customer support handling
 
-## Resolution
-
-1. Checked CPU usage
-2. Verified RAM utilization
-3. Removed unnecessary startup programs
-4. Cleared temporary files
-
-## Status
-Resolved
+## Goal
+To simulate day-to-day tasks of a Technical Support Engineer.
